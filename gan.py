@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May 28 00:25:58 2020
-
-@author: Vivan
-"""
 
 # importing necessary libraries and modules
 
